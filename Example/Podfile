@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'puzzl-pod_Example' do
+  pod 'puzzl-pod', :path => '../'
+
+  target 'puzzl-pod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
