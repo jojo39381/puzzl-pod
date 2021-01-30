@@ -23,7 +23,7 @@ struct ScreenToggle {
     var toggle:Bool
     
     init(viewController:UIViewController, value:Bool) {
-        screen = screen
+        screen = viewController
         toggle = value
     }
 }
