@@ -1,0 +1,22 @@
+{
+  "name": "puzzl-pod",
+  "version": "0.1.0",
+  "summary": "A short description of puzzl-pod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jojo39381/puzzl-pod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jojo39381": "josephyeh.dev@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/jojo39381/puzzl-pod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "puzzl-pod/Classes/**/*"
+}

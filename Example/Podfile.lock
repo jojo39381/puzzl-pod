@@ -1,0 +1,16 @@
+PODS:
+  - puzzl-pod (0.1.0)
+
+DEPENDENCIES:
+  - puzzl-pod (from `../`)
+
+EXTERNAL SOURCES:
+  puzzl-pod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  puzzl-pod: 8fff2e11335f632bc408d0c5c65301ab86487016
+
+PODFILE CHECKSUM: 39867488f364f31915620a0228d87789c74ae821
+
+COCOAPODS: 1.10.1
